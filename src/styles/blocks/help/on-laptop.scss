@@ -1,5 +1,0 @@
-@mixin on-laptop($break-point) {
-  @media (min-width: $break-point) {
-    width: 1200px;
-  }
-}
