@@ -1,7 +1,7 @@
 # KateVR landing page
 
 for Figma design file please use this link
-[Figma design](https://www.figma.com/file/Blpg4iapsI7fRqJeSp6DvK/KatVR?node-id=1%3A370) - Use BEM and SCSS
+[Figma design](https://www.figma.com/file/Blpg4iapsI7fRqJeSp6DvK/KatVR?node-id=1%3A370)
 
 Below is a list of devices with minimum screen sizes for which the design was implemented
 - The design 1440px
